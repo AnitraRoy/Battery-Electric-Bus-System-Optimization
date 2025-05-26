@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 pip install gurobipy
 
 from gurobipy import *
